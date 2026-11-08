@@ -5,7 +5,7 @@
 ### Cel projektu
 Projekt przedstawia analizę danych ankietowych dotyczących rynku pracy w branży danych w Polsce. Jego celem jest porównanie różnych stanowisk zawodowych pod względem wynagrodzeń, wykorzystywanych technologii, kompetencji, organizacji pracy, satysfakcji zawodowej oraz perspektyw rozwoju.
 
-Dane wykorzystane w projekcie pochodzą z platformy Crappy Data Club, która przeprowadziła badanie ankietowe pod nazwą “Wielka Ankieta Branży Data”.
+Dane wykorzystane w projekcie pochodzą z platformy *Crappy Data Club*, która przeprowadziła badanie ankietowe pod nazwą *“Wielka Ankieta Branży Data”*.
 Analiza została przeprowadzona na podstawie odpowiedzi 297 respondentów. Badana próba nie jest równomierna pod względem liczebności poszczególnych stanowisk, dlatego wyniki należy interpretować z uwzględnieniem tej charakterystyki. Nie należy traktować ich jako reprezentatywnego obrazu całego rynku pracy w Polsce.
 
 Projekt obejmuje dwa główne obszary: analizę danych z wykorzystaniem języka SQL oraz prezentację i interpretację wyników w dashboardzie Power BI.
@@ -32,8 +32,34 @@ Główną częścią preojektu jest dashboard, który został podzielony na sze�
 
 ### Przegląd poszczególnych sekcji dashboardu
 1. Profil respondentów
+   
 Strona przedstawia strukturę badanej próby według stanowiska, płci, poziomu doświadczenia oraz wykształcenia respondentów. Pozwala określić, jakie grupy zawodowe dominują w badaniu i jaki jest ich profil edukacyjny.
 ![profil respondentów](screenshots/profil.jpg)
+
+2. Wynagrodzenia i perspektywy
+
+W tej sekcji przechodzimy od struktury stanowisk do jednego z najważniejszych aspektów pracy w branży danych, czyli wynagrodzeń. Warto sprawdzić, czy wysokość zarobków różni się w zależności od stanowiska, a także czy poziom seniority ma związek z wysokością wynagrodzenia. W tej części również są przedstawione analizy, jak osoby pracujące w branży danych postrzegają jej przyszłość oraz jakie mają plany dotyczące swojej kariery zawodowej.
+![wynagrodzenia_perspektywy](screenshots/wynagrodzenia_perspektywy.jpg)
+
+3. Technologie
+
+Strona przedstawia technologie, narzędzia i języki programowania wykorzystywane przez osoby pracujące w branży danych. Umożliwia porównanie profili technologicznych poszczególnych stanowisk oraz określenie, jak duże znaczenie programowanie odgrywa w codziennej pracy różnych specjalistów.
+![technologie](screenshots/technologie.jpg)
+
+4. Organizacja pracy i zespoły
+
+Strona przedstawia sposób organizacji pracy osób zatrudnionych w branży danych oraz charakterystykę środowiska zespołowego. Umożliwia porównanie modeli pracy, form zatrudnienia i sposobu realizacji projektów, a także ocenę poziomu samodzielności technicznej w poszczególnych specjalizacjach.
+![organizacja_pracy](screenshots/organizacja_prqacy.jpg)
+
+5. Satysfakcja zawodowa
+
+W tej części przedstawione są analizy poziomu zadowolenia zawodowego osób pracujących na różnych stanowiskach.  Celem jest sprawdzenie, czy satysfakcja z pracy różni się w zależności od stanowiska oraz czy mogą mieć na nią wpływ takie czynniki jak równowaga między życiem zawodowym a prywatnym i częstotliwość pracy po godzinach.
+![satysfakcja_zawodowa](screenshots/satysfakcja_zawodowa.jpg)
+
+6. Podsumowanie
+
+Ostatnia strona dashboardu przedstawia najważniejsze wyniki i obserwacje wynikające z przeprowadzonych analiz. Jej celem jest zebranie kluczowych informacji dotyczących rynku pracy.
+![podsumowanie](screenshots/podsumowanie.jpg)
 
 ### Najważniejsze obserwacje
 
