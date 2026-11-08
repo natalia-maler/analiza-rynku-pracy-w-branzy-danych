@@ -30,7 +30,7 @@ Dokumentacja zawiera między innymi:
 - wyniki analiz w postaci tabel i zestawień,
 - interpretację uzyskanych rezultatów.
 
-Plik: ![dokumentacja](dokumentacja_projektu_WABD.pdf)
+Plik: ![Dokumentacja projektu ]([dokumentacja_projektu_WABD.pdf](https://github.com/natalia-maler/analiza-rynku-pracy-w-branzy-danych/blob/main/dokumentacja_projektu_WABD.pdf))
 
 ### Dashboard Power BI
 Główną częścią preojektu jest dashboard, który został podzielony na sześć obszarów tematycznych:
