@@ -21,6 +21,17 @@ W ramach projektu przeanalizowano między innymi:
 - satysfakcję zawodową, możliwości rozwoju i work-life balance;
 - ocenę obecnej i przyszłej sytuacji branży oraz plany zawodowe respondentów.
 
+### Dokumentacja projektu
+Szczegółowy opis realizacji projektu, obejmujący zastosowane zapytania SQL, wyniki przeprowadzonych analiz oraz dodatkowe wnioski, został przedstawiony w osobnym dokumencie.
+
+Dokumentacja zawiera między innymi:
+- opis struktury i przygotowania danych,
+- wykorzystane zapytania SQL wraz z ich przeznaczeniem,
+- wyniki analiz w postaci tabel i zestawień,
+- interpretację uzyskanych rezultatów.
+
+Plik: ![dokumentacja](dokumentacja_projektu_WABD.pdf)
+
 ### Dashboard Power BI
 Główną częścią preojektu jest dashboard, który został podzielony na sześć obszarów tematycznych:
 1. Profil respondentów - struktura stanowisk, płci, wykształcenia i doświadczenia.
