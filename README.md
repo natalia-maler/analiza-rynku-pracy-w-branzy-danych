@@ -30,7 +30,7 @@ Dokumentacja zawiera między innymi:
 - wyniki analiz w postaci tabel i zestawień,
 - interpretację uzyskanych rezultatów.
 
-Plik: ![Dokumentacja projektu ]([dokumentacja_projektu_WABD.pdf](https://github.com/natalia-maler/analiza-rynku-pracy-w-branzy-danych/blob/main/dokumentacja_projektu_WABD.pdf))
+Plik: !["Dokumentacja projektu"]([dokumentacja_projektu_WABD.pdf](https://github.com/natalia-maler/analiza-rynku-pracy-w-branzy-danych/blob/main/dokumentacja_projektu_WABD.pdf))
 
 ### Dashboard Power BI
 Główną częścią preojektu jest dashboard, który został podzielony na sześć obszarów tematycznych:
@@ -41,7 +41,7 @@ Główną częścią preojektu jest dashboard, który został podzielony na sze�
 5. Satysfakcja zawodowa - zadowolenie z pracy, możliwości rozwoju, work-life balance i czas pracy.
 6. Podsumowanie - najważniejsze wyniki i wnioski z przeprowadzonych analiz.
 
-Plik: ![dashboard](dashboard_projekt_WABD.pdf)
+Plik: !["Dashboard Power BI"]([dashboard_projekt_WABD.pdf](https://github.com/natalia-maler/analiza-rynku-pracy-w-branzy-danych/blob/main/dashboard_projekt_WABD.pdf))
 
 ### Przegląd poszczególnych sekcji dashboardu
 1. Profil respondentów
