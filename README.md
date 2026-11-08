@@ -33,7 +33,7 @@ Dokumentacja zawiera między innymi:
 Plik: ["Dokumentacja projektu"](https://github.com/natalia-maler/analiza-rynku-pracy-w-branzy-danych/blob/main/dokumentacja_projektu_WABD.pdf)
 
 ### Dashboard Power BI
-Główną częścią preojektu jest dashboard, który został podzielony na sześć obszarów tematycznych:
+Główną częścią projektu jest dashboard, który został podzielony na sześć obszarów tematycznych:
 1. Profil respondentów - struktura stanowisk, płci, wykształcenia i doświadczenia.
 2. Wynagrodzenia i perspektywy zawodowe - wynagrodzenia, ocena sytuacji branży i plany zmiany pracy.
 3. Technologie - wykorzystywane technologie, języki programowania i narzędzia.
