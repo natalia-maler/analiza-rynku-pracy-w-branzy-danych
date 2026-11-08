@@ -1,7 +1,6 @@
 # Analiza rynku pracy w branży danych w Polsce
-Wynagrodzenia, przyszłość, kompetencje, technologie i satysfakcja zawodowa
 
-## Stanowiska w branży danych pod kątem analizy wynagrodzeń, kompetencji i satysfakcji zawodowej 
+## Stanowiska w branży danych pod kątem analizy wynagrodzeń, technologii, kompetencji, przyszłości i satysfakcji zawodowej 
 ### Cel projektu
 Projekt przedstawia analizę danych ankietowych dotyczących rynku pracy w branży danych w Polsce. Jego celem jest porównanie różnych stanowisk zawodowych pod względem wynagrodzeń, wykorzystywanych technologii, kompetencji, organizacji pracy, satysfakcji zawodowej oraz perspektyw rozwoju.
 
