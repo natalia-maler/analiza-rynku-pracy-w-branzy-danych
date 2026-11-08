@@ -41,6 +41,8 @@ Główną częścią preojektu jest dashboard, który został podzielony na sze�
 5. Satysfakcja zawodowa - zadowolenie z pracy, możliwości rozwoju, work-life balance i czas pracy.
 6. Podsumowanie - najważniejsze wyniki i wnioski z przeprowadzonych analiz.
 
+Plik: ![dashboard](dashboard_projekt_WABD.pdf)
+
 ### Przegląd poszczególnych sekcji dashboardu
 1. Profil respondentów
    
