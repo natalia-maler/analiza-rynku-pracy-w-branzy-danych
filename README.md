@@ -5,7 +5,7 @@
 ### Cel projektu
 Projekt przedstawia analizę danych ankietowych dotyczących rynku pracy w branży danych w Polsce. Jego celem jest porównanie różnych stanowisk zawodowych pod względem wynagrodzeń, wykorzystywanych technologii, kompetencji, organizacji pracy, satysfakcji zawodowej oraz perspektyw rozwoju.
 
-Dane wykorzystane w projekcie pochodzą z platformy *Crappy Data Club*, która przeprowadziła badanie ankietowe pod nazwą *“Wielka Ankieta Branży Data”*.
+Dane wykorzystane w projekcie pochodzą z platformy #Crappy Data Club#, która przeprowadziła badanie ankietowe pod nazwą *“Wielka Ankieta Branży Data”*.
 Analiza została przeprowadzona na podstawie odpowiedzi 297 respondentów. Badana próba nie jest równomierna pod względem liczebności poszczególnych stanowisk, dlatego wyniki należy interpretować z uwzględnieniem tej charakterystyki. Nie należy traktować ich jako reprezentatywnego obrazu całego rynku pracy w Polsce.
 
 Projekt obejmuje dwa główne obszary: analizę danych z wykorzystaniem języka SQL oraz prezentację i interpretację wyników w dashboardzie Power BI.
@@ -49,7 +49,7 @@ Strona przedstawia technologie, narzędzia i języki programowania wykorzystywan
 4. Organizacja pracy i zespoły
 
 Strona przedstawia sposób organizacji pracy osób zatrudnionych w branży danych oraz charakterystykę środowiska zespołowego. Umożliwia porównanie modeli pracy, form zatrudnienia i sposobu realizacji projektów, a także ocenę poziomu samodzielności technicznej w poszczególnych specjalizacjach.
-![organizacja_pracy](screenshots/organizacja_prqacy.jpg)
+![organizacja_pracy](screenshots/organizacja_pracy.jpg)
 
 5. Satysfakcja zawodowa
 
