@@ -62,15 +62,16 @@ Ostatnia strona dashboardu przedstawia najważniejsze wyniki i obserwacje wynika
 ![podsumowanie](screenshots/podsumowanie.jpg)
 
 ### Najważniejsze obserwacje
-
-W badanej próbie dominują osoby pracujące na stanowisku Data Analyst.
-
-Wynagrodzenia różnią się między stanowiskami i poziomami doświadczenia zawodowego.
-
-Python i SQL należą do najważniejszych języków programowania wykorzystywanych w branży danych.
-
-Przeważają zdalne i hybrydowe modele pracy.
-
-Średnia ocena zadowolenia z pracy wynosi 6,82/10, a ocena możliwości rozwoju 6,62/10.
-
-Respondenci oceniają przyszłość branży lepiej niż jej obecną sytuację.
+- W badanej próbie dominują osoby pracujące na stanowisku data analyst - 54.55%.
+- Wynagrodzenia różnią się między stanowiskami i poziomami doświadczenia zawodowego.
+- Najwyższe średnie wynagrodzenie odnotowano wśród ml/ai engineerów z wartością ok. 12.2 tys. zł, jednak liczebność tej grupy była niewielka.
+- Python i SQL należą do najważniejszych języków programowania wykorzystywanych w branży danych.
+- Przeważają zdalne i hybrydowe modele pracy.
+- Średnia ocena zadowolenia z pracy wynosi 6.82/10, a ocena możliwości rozwoju 6.62/10.
+- Respondenci oceniają przyszłość branży lepiej - 6.29 niż jej obecną sytuację - 5.14.
+- Wykorzystanie narzędzi AI do generowania kodu zadeklarowała większość respondentów około 80%.
+- Najczęściej respondenci pracują nad 2-3 projektami jednocześnie, deklaracja wyniosła 63.67% ogółu.
+- W badanej próbie dominują umowy o pracę, a zespoły techniczne stanowią najczęściej wskazywany typ zespołu.
+- Większość respondentów deklaruje umiarkowany lub bardzo wysoki poziom samodzielności technicznej.
+- Większość badanych pracuje około 8 godzin dziennie, a praca po godzinach najczęściej ma charakter sporadyczny.
+- Najwyższe średnie zadowolenie z pracy zadeklarowali data scientiści - ok. 7.2/10, natomiast najniższe business analyst i ml/ai engineerzy około 6.5.
